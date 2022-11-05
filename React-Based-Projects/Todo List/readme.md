@@ -1,1 +1,1 @@
-So its a todo list
+TODO LIST
